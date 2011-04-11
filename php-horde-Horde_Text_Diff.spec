@@ -55,6 +55,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc optional-packages.txt
 %doc docs/Horde_Text_Diff/*
 %{php_pear_dir}/.registry/.channel.*/*.reg
-%dir %{php_pear_dir}/Horde/Text
 %{php_pear_dir}/Horde/Text/Diff.php
 %{php_pear_dir}/Horde/Text/Diff
