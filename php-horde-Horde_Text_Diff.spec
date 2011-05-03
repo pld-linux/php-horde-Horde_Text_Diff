@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	46d82794c06c461b15768cdb0aa8d0a9
-URL:		http://pear.horde.org/package/Horde_Text_Diff/
+URL:		https://github.com/horde/horde/tree/master/framework/Text_Diff/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
