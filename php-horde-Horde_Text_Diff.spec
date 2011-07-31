@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Engine for performing and rendering text diffs
 Name:		php-horde-Horde_Text_Diff
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	46d82794c06c461b15768cdb0aa8d0a9
+# Source0-md5:	a52c08b7f87a3ff9d661ced1bdf0be6e
 URL:		https://github.com/horde/horde/tree/master/framework/Text_Diff/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
