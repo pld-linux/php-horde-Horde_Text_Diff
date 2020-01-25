@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Text_Diff
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Engine for performing and rendering text diffs
 Name:		php-horde-Horde_Text_Diff
 Version:	1.0.2
