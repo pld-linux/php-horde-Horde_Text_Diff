@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Engine for performing and rendering text diffs
 Name:		php-horde-Horde_Text_Diff
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
